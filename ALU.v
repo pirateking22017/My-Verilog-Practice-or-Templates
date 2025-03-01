@@ -1,4 +1,4 @@
-module 
+module  alu[A,B,ALUcontrol, Result]
     //input decl
     input [31:0] A,B;
     input [2:0] ALUcontrol;
